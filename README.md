@@ -11,7 +11,7 @@ I'm Danilo Guimarães.
 <center>
 <table>
   <tr>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=daniloguimaraes&theme=default&show_icons=true&count_private=true" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=daniloguimaraes&theme=darcula&show_icons=true&count_private=true" /></td>
   </tr>  
 </table>
 </center>
